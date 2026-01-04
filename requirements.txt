@@ -5,6 +5,7 @@
 # ============================================
 # CORE FRAMEWORK
 # ============================================
+llama-index
 llama-index-core
 
 # ============================================
@@ -12,13 +13,16 @@ llama-index-core
 # ============================================
 llama-index-llms-openai
 llama-index-llms-anthropic
+llama-index-embeddings-bedrock
+lama-index-llms-bedrock-converse
+llama_index.llms.gemini 
 
 # ============================================
 # EMBEDDING INTEGRATIONS
 # ============================================
 llama-index-embeddings-openai
 llama-index-embeddings-huggingface
-
+llama_index.embeddings.gemini 
 # ============================================
 # VECTOR STORE INTEGRATIONS
 # ============================================
